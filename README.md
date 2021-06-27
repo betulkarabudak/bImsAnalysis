@@ -2,4 +2,4 @@
 
 
 
-![Image of bImsAnalysis](https://octodex.github.com/images/yaktocat.png)
+![bImsAnalysis](https://github.com/betulkarabudakk/bImsAnalysis/bImsAnalysis.png)
