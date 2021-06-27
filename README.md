@@ -4,4 +4,3 @@
 
 ![bImsAnalysis](bImsAnalysis.png)
 
-
